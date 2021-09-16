@@ -26,4 +26,4 @@ Type pwd to print the working directory. If you type ls, you can see the list of
 
 ### To change the working directory, you can typecd. For instance, you can typecd folder/to/clone-into/to change the path to the directory that you want to clone the file. I copied the repo to my C: drive perbelow exampleGood Job. You have created a new repository including a readme file and you have learnedhow to write a markdown document and clone a repository
 
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/90294553/133544995-35ec3d9f-76a5-41c9-9777-00d22d3ae167.JPG)
